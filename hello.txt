@@ -3,3 +3,6 @@ A) I'm doing well. Thanks for asking.
 
 Q) What's your name?
 A) My name is Java.
+
+Q) How's your day going?
+A) It's going well.
