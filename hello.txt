@@ -6,3 +6,6 @@ A) My name is Java.
 
 Q) How's your day going?
 A) It's going well.
+
+Q) What's your age?
+A) 10
