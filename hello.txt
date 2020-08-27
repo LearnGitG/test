@@ -1,3 +1,5 @@
 Q) This is hello. How are you?
+A) I'm doing well. Thanks for asking.
 
-A) I;m doing well. Thanks for asking.
+Q) What's your name?
+A) My name is Java.
